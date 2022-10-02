@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/flutter_application_1/windows/flutter",
+    "cSpell.words": [
+        "appbar",
+        "wireframe"
+    ]
+}
